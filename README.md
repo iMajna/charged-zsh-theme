@@ -1,6 +1,8 @@
 # charged prompt
 
-![screenshot](screenshot.png)
+![image](https://user-images.githubusercontent.com/10169730/149968252-14f5b6af-9b37-4109-9fdf-35da30a7bee6.png)
+
+Forked from  [robwierzbowski](https://github.com/robwierzbowski/charged-zsh-theme)
 
 A simple zsh prompt with lightning bolt. Use with [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).  
 Works well with the solarized dark theme.  
