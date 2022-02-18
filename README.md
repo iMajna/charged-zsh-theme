@@ -1,6 +1,6 @@
 # charged prompt
 
-![image](![image](https://user-images.githubusercontent.com/10169730/154726022-2ebdce5e-c6d5-452c-81b1-1766c4cb37af.png))
+![image](https://user-images.githubusercontent.com/10169730/154726022-2ebdce5e-c6d5-452c-81b1-1766c4cb37af.png)
 
 Forked from  [robwierzbowski](https://github.com/robwierzbowski/charged-zsh-theme)
 
