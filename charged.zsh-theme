@@ -1,4 +1,4 @@
-PROMPT='%{$fg[white]%}⚡%{$reset_color%} %{$fg[cyan]%}%2~%{$reset_color%} $(git_prompt_info)%{$reset_color%} %{$fg[red]%}➜%{$reset_color%} '
+PROMPT='%{$fg[white]%}⚡in%{$reset_color%} %{$fg[cyan]%}%2~%{$reset_color%} $(git_prompt_info)%{$reset_color%} %{$fg[red]%}➜%{$reset_color%} '
 
 ZSH_THEME_GIT_PROMPT_DIRTY="%{$fg[red]%} ⚒%{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_CLEAN="%{$fg[green]%} ✔%{$reset_color%}"
